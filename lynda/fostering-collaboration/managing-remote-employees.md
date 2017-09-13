@@ -110,3 +110,99 @@ https://www.lynda.com/Business-Skills-tutorials/Managing-when-you-cant-see-each-
 * Share your role with your team, especially what you can help them with.
 
 * Ask what worked or didn't work for them in previous remote engagements.
+
+## Establishing team norms
+
+Response times for text messages, emails, under normal and urgent
+conditions, etc.
+
+## Using skill and personality assessments
+
+* If you do it for one, do it for all
+
+* The initial debrief should be done by a third party
+
+* Assessments are not diagnostic  tools.  Don't use them to find out "what's
+  wrong" with people.
+
+## Understanding habits
+
+Ask your employees
+
+* Morning, afternoon or night person?
+
+* What do you do when you need inspiration?
+
+* When do you typeically seek collaboration?
+
+* When you get interrupted how long does it take to get back into working
+  groove?
+
+* How often do you need to take breaks?
+
+* When you get stuck what do you do?
+
+* When is it too early or too late to contact you?
+
+## Understanding your tendencies
+
+Have different management styles to apply depending on the situation.
+
+* Pace setting
+
+    * You set the goal and allow them to self-manage to the end result
+
+* Authoritative style
+
+* Affirming style
+
+    * "People come first" approach
+
+    * Particularly effective under pressure
+
+* Encouraging style
+
+    * "How about you try to do ..."
+
+    * Discover strengths and encourage them
+
+* Coercive/direct style
+
+Decide base on
+
+    * Need collaboration?
+
+    * How much time do you have?
+
+## Use your intuition
+
+You probably have more than you think you do.
+
+## Identifying your team's potential
+
+Your remote team probably have hidden potential.  To discover it
+
+* Ask them
+
+* Skills assessment
+
+* Scenarios.  Pitch them and ask how they would deal with it
+
+* Ask about extracurricular activities
+
+* Let go -- allocate items from your personal todo list to ambitious team
+  members
+
+## Managing some people in person and others remotely
+
+Traps
+
+* Letting what's in your face monopolise your attention
+
+* Visit from employees only means major celebration or stern performance
+  management discussion.
+
+Give undivided attention during 1-on-1s.  Announce who is present and who is
+remote during teleconferences.
+
+
