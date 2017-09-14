@@ -205,4 +205,140 @@ Traps
 Give undivided attention during 1-on-1s.  Announce who is present and who is
 remote during teleconferences.
 
+## Dealing with team conflict
 
+* Get a crystal clear breakdown of the conflict
+
+    * What happened, not "who" did what
+
+* Get to the problem solving stage
+
+* Focus on the facts
+
+* Avoid avoidance
+
+* Avoid the blame game
+
+* Avoid drama
+
+## Increasing team engagement
+
+* Ask "what else?"
+
+* Do not interrupt
+
+* Acknowledgement
+
+* Check and confirm
+
+## Special consideration for new managers
+
+* Look into team's history
+
+* Create a communication plan
+
+* ALlow your team to be the experts
+
+* Ask what three things work best to help them perform their job.
+
+* What three things cause the greatest issues as they try to do their job
+
+## Managing when you can't see each other
+
+* Convert unmanaged dynamics into managed dynamics
+
+* When you can't see each other pretend that overcommunication doesn't
+  exist.
+
+## Holding remote meetingsn
+
+* Occasionally have *everyone* dial in to a team meeting even local members
+
+* Ask if anyone has anything that might mean they perform differently to
+  normal in the meeting
+
+## Developing a solid team-support structure
+
+* Side projects to create partnerships
+
+## Using rewards and recognition
+
+* Is energy low?  If so, have a shared meal meeting.  Pay for food if you can. 
+  Encourage each employee to have lunch or other food appropriate to their
+  timezone.  Have no agenda.
+
+* Send handwritten letter or gift card to employee who went above and
+  beyond.
+
+* Under-appreciation is a primary factor leading to burnout.
+
+## Evaluating performance on the go
+
+* Conduct mini-performance reviews during weekly 1-on-1s
+
+* Co-create any action plans
+
+* Measure performance against milestones and goals
+
+* On-the-go checklist
+
+    * What is working?
+
+    * What should you be doing more of?
+
+    * What should you be doing less of?
+
+    * On a scale of 1 to 5 how would you rate
+
+        * Creativity
+
+        * Collaboration
+
+        * Productivity
+
+        * Communication
+        
+* What would support you creating a 5 in all of those areas?
+
+* What would be different for you if you were performing at a 5?
+
+* What would be different for your team if you were performing at a 5?  
+
+## Addressing the top five remote management challenges
+
+* Set up a conference call to set up expectations for what communication
+  needs to look like
+
+* The moreconversations you have on the phone where you get used to how an
+  employee speaks the better you get at accurately interpreting tone and
+  meaning
+
+* Manage conflict by phone calls rather than emails.  The latter is too
+  impersonal and vague.
+
+* Focus on the cause of conflict
+
+* Establish trust.  People are more willing to trust someone who shows
+  genuine concern for their wellbeing.
+
+* Say "thank you"
+
+* "A good leader takes a little more than his share of the blame and a
+  little less than his share of the credit" -- Arnold H.  Glasgow
+
+* Focus on listening to your team
+
+## Tools for managing virtual teams efficiently
+
+* Virtual conference rooms
+
+* Social media.  Can shrink the distance between you and your team.  Can be
+  very distracting.
+
+* Email.  Emails can be misinterpreted even with the use of emoticons.
+
+* Cell phone
+
+* Tablets
+
+* Cloud technology
