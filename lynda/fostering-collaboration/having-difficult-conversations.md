@@ -305,7 +305,7 @@ Develop your action plan
 
 * Use the power of praise to acknowledge others' efforts to change.
 
-* Ideal ration of praise to criticism is 5 to 1
+* Ideal ratio of praise to criticism is 5 to 1
 
 ## What to do if it's not working
 
