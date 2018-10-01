@@ -4,10 +4,6 @@
 
 
 
-* Solving the Rubik's Cube Without Human Knowledge
-
-    https://arxiv.org/abs/1805.07470
-
 * Deep Reinforcement Learning for Join Order Enumeration
 
     https://arxiv.org/abs/1803.00055
