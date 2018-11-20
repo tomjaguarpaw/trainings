@@ -1,3 +1,13 @@
+* Efficient Differentiable Programming in a Functional Array-Processing Language
+
+    https://arxiv.org/abs/1806.02136
+
+
+
+* Deep Reinforcement Learning for Join Order Enumeration
+
+    https://arxiv.org/abs/1803.00055
+
 * Efficient evaluation of large polynomials
 
     http://www.csd.uwo.ca/~moreno/Publications/Leiserson.Li.Moreno-Maza.Xie-ICMS-2010.pdf
