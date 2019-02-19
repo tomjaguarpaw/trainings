@@ -1,6 +1,6 @@
 # Diversity, Inclusion and Belonging
 
-https://www.linkedin.com/learning/diversity-inclusion-and-belonging/integrate-dibs-into-the-employee-life-cycle
+https://www.linkedin.com/learning/diversity-inclusion-and-belonging
 
 Summary: this is a really upbeat and short course explaning the benefits of
 nurturing diversity, inclusion and belonging in an organisation.
