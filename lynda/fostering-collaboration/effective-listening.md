@@ -14,7 +14,7 @@ https://www.lynda.com/Business-Skills-tutorials/Effective-Listening/176760-2.htm
 
 * Attending to subtle cues
 
-* Empathizing with the speaker
+* Empathising with the speaker
 
 ## Challenges in listening
 
@@ -47,7 +47,7 @@ person feel like they're the only other person in the room".
 
 * Using effective non-verbals
 
-* Honoring silence
+* Honouring silence
 
 * Paraphrasing and clarifying understanding
 

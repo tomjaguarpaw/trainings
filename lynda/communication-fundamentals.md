@@ -45,7 +45,7 @@
 
 4. Clarify pain and gain
 
-5. Initiate repciprocation or exchange
+5. Initiate repiprocation or exchange
 
 6. Create a sense of urgency
 
@@ -86,7 +86,7 @@ Before meeting ask
 
 * What are your expectations?
 
-* What's the bust use of time when we meet?
+* What's the best use of time when we meet?
 
 Even long before the meeting
 
@@ -162,7 +162,7 @@ Level 4: connective listening
 ## Rapport
 
 * Maya Angelou: "People will forget what you said, people will forget what
-  you did, but people will never forget hou you made them feel"
+  you did, but people will never forget how you made them feel"
 
 * Secret of rapport: help others feel a little better
 

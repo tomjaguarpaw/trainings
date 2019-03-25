@@ -22,7 +22,7 @@ https://www.lynda.com/Business-Skills-tutorials/Managing-when-you-cant-see-each-
 
     * Be perceived as being dependable
 
-    * Have a set schedul eto communicate, the same time every week
+    * Have a set schedule to communicate, the same time every week
 
     * Have face-to-face meetings, teleconference if not in person
 
@@ -82,7 +82,7 @@ https://www.lynda.com/Business-Skills-tutorials/Managing-when-you-cant-see-each-
 
 * Apply balance.  Don't assume they know what you think they're doing right.
 
-* Coevaluate.  Ask them what they think went wrong or badly.
+* Co-evaluate.  Ask them what they think went wrong or badly.
 
 ## Deciding what success looks like
 
@@ -133,7 +133,7 @@ Ask your employees
 
 * What do you do when you need inspiration?
 
-* When do you typeically seek collaboration?
+* When do you typically seek collaboration?
 
 * When you get interrupted how long does it take to get back into working
   groove?
@@ -237,7 +237,7 @@ remote during teleconferences.
 
 * Create a communication plan
 
-* ALlow your team to be the experts
+* Allow your team to be the experts
 
 * Ask what three things work best to help them perform their job.
 
@@ -250,7 +250,7 @@ remote during teleconferences.
 * When you can't see each other pretend that overcommunication doesn't
   exist.
 
-## Holding remote meetingsn
+## Holding remote meetings
 
 * Occasionally have *everyone* dial in to a team meeting even local members
 
@@ -309,7 +309,7 @@ remote during teleconferences.
 * Set up a conference call to set up expectations for what communication
   needs to look like
 
-* The moreconversations you have on the phone where you get used to how an
+* The more conversations you have on the phone where you get used to how an
   employee speaks the better you get at accurately interpreting tone and
   meaning
 

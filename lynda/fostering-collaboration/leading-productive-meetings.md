@@ -45,7 +45,7 @@ Give people equal time to speak.
 
 * Greet people
 
-## Ask about previous committments
+## Ask about previous commitments
 
 * If completed, then express thanks
 
@@ -76,7 +76,7 @@ Give people equal time to speak.
 
 * Opportunity for you to ask them questions
 
-* Reconfirm committments
+* Reconfirm commitments
 
 * Finish on time
 

@@ -81,7 +81,7 @@ else's motivations and intentions.
 
 * Conclusions: the "story" or extra level of meaning
 
-* Emotions: how you are feeling in the interation
+* Emotions: how you are feeling in the interaction
 
 * Beliefs: fill in the blanks to discover your beliefs
 
@@ -171,7 +171,7 @@ else's motivations and intentions.
     * Regular mirror: Something you yourself do.  Our mirrors are not always
       visible to us.
 
-    * Reverse mirror: Somthing we would never allow ourselves to do.
+    * Reverse mirror: Something we would never allow ourselves to do.
 
 * Reflect on your adversary.  Reframe them to be your partner rather than
   your enemy.

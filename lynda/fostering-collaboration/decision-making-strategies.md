@@ -26,7 +26,7 @@ https://www.lynda.com/Business-Skills-tutorials/Decision-Making-Fundamentals/186
 
     * Consensus
 
-* Consider ungency and size of decision in choosing a decision-making style
+* Consider urgency and size of decision in choosing a decision-making style
 
 * RACI matrix.  Who is ...
 
