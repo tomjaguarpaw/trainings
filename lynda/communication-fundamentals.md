@@ -82,19 +82,19 @@
 
 Before meeting ask
 
-    * What would you like from us?
+* What would you like from us?
 
-    * What are your expectations?
+* What are your expectations?
 
-    * What's the bust use of time when we meet?
+* What's the bust use of time when we meet?
 
 Even long before the meeting
 
-    * How are you doing?
+* How are you doing?
 
-    * How are we doing?
+* How are we doing?
 
-    * How can we improve?
+* How can we improve?
 
 ## Communicating across hierarchical levels
 
