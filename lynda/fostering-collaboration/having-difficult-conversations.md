@@ -163,7 +163,7 @@ else's motivations and intentions.
 
         * What do you feel righteous about?
 
-        * What is something yiou think they should or should not be doing?
+        * What is something you think they should or should not be doing?
 
     * Our judgements are always a mirror to something we can't see about
       ourselves, *always* [she says!]
