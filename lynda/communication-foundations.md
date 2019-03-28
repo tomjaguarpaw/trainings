@@ -1,4 +1,4 @@
-# Communication Fundamentals -- John Ullmen
+# Communication Foundations -- John Ullmen
 
 * We judge ourselves on intent.  Others judge us on impact.
 
