@@ -31,7 +31,7 @@ https://www.lynda.com/Business-Skills-tutorials/Jodi-Glickman-Make-Em-Love-You-W
 
 ## Forward momentum
 
-* End convesations with "thank you"
+* End conversations with "thank you"
 
 * Thanks ... <outline the next steps> (keep people informed about what happens next)
 

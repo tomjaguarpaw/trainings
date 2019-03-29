@@ -16,7 +16,7 @@ called the "Emotional and Social Competence Inventory" or ESCI.
 ## Why emotions are key
 
 When the reptilian brain kicks off it literally shuts down the function of
-the other portions of our brain (amgydala hijack).  It makes us incapable of
+the other portions of our brain (amygdala hijack).  It makes us incapable of
 any kind of intelligent action, emotional or otherwise.
 
 ## Getting to know yourself

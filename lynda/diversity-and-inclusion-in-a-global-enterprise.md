@@ -12,7 +12,7 @@ is much better.
 Diversity is a business imperative.  The successful companies of the
 future will be global companies.
 
-Diversity increases companie's ability ot capture new markets.
+Diversity increases company's ability ot capture new markets.
 
 A scenario in which women achieved complete gender parity could
 increase global output by more than 25%.
@@ -20,7 +20,7 @@ increase global output by more than 25%.
 Diverse perspectives bring new ways of thinking.
 
 Female representation in top management of the S&P 1500 over 14 years
-led to an inclease in financial performance equating to 42 million
+led to an increase in financial performance equating to 42 million
 dollars of firm value [Doesn't sound very much!  Must be billions, at
 least.].
 
@@ -76,7 +76,7 @@ Why?  To increase innovation, because it's the right thing to do?
 
 2. Compliance with the law
 
-3. Deling with talent shortages
+3. Dealing with talent shortages
 
 4. Mirroring the customer base
 
@@ -89,7 +89,7 @@ vision.
 
 ## Uncover the reasons for diversity
 
-* Moral argument: focuses on creating equality for gorups that have
+* Moral argument: focuses on creating equality for groups that have
   been historically disadvantaged.
 
 * Complying with the law: in the US, using quotas as a way of
@@ -103,7 +103,7 @@ vision.
   more accurate solutions.
 
 It's essential that your company articulates your reasons for caring
-about diversity so that you can appropriately adapt htat to a global
+about diversity so that you can appropriately adapt that to a global
 context.
 
 ## Example of a diversity strategy

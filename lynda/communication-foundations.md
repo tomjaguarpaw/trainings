@@ -45,7 +45,7 @@
 
 4. Clarify pain and gain
 
-5. Initiate repiprocation or exchange
+5. Initiate reciprocation or exchange
 
 6. Create a sense of urgency
 
@@ -104,7 +104,7 @@ Even long before the meeting
 
 * Juniors: motivate them
 
-## Adjusting to organizational culture
+## Adjusting to organisational culture
 
 ## Being politically savvy
 

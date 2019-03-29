@@ -51,7 +51,7 @@ https://www.linkedin.com/learning/pitching-projects-and-products-to-executives
 * Is it a place they feel they can be candid and open?
 
 * In a relaxed atmosphere they will start to fill in more details on
-  their broader sweeping statments
+  their broader sweeping statements
 
 ## Pitching effectively
 

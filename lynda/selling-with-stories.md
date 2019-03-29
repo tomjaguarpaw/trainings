@@ -95,12 +95,12 @@ The best stories to get a prospect to tell are
 ## What makes a great story a great story?
 
 1. A hero we care about (a relatable main character)
-2. A villian we're afraid of (a relevant challenge)
+2. A villain we're afraid of (a relevant challenge)
 3. An epic battle (honest struggle between them)
 
 For a sales story, also a worthy lesson.
 
-Choose a main character who is relavant to your audience
+Choose a main character who is relevant to your audience
 
 ## Choose the right story to tell
 
@@ -130,7 +130,7 @@ Choose a main character who is relavant to your audience
 * Go an regular story hunts.  Around the organisation ask "got any good
   stories?"
 
-* Follup up with customers who've paid you a compliment or complaint.
+* Follow up up with customers who've paid you a compliment or complaint.
 
 * ... lots more
 
@@ -234,7 +234,7 @@ right story in a mediocre fashion.  That said
 
 * be conversational
 * blend into conversation
-* don't memorize
+* don't memorise
 
 In writing, write the way you'd like to speak.
 

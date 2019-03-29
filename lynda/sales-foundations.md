@@ -85,7 +85,7 @@ Prepare yourself to sell your product
 1. Make a list of top five problems your customers tend to have, that your
 product or service can solve.
 
-2. List top five to ten features your product posesses.
+2. List top five to ten features your product possesses.
 
 3. Next to each feature list the benefit that feature has to your customer.
 
@@ -130,6 +130,6 @@ delivery (is this the "account manager"?)
 Post sales activities
 
   * Implement solution
-  * Offer custemer service and support
+  * Offer customer service and support
   * Gather customer feedback
   * Review with manager or coach

@@ -2,7 +2,7 @@
 
 https://www.linkedin.com/learning/diversity-inclusion-and-belonging
 
-Summary: this is a really upbeat and short course explaning the benefits of
+Summary: this is a really upbeat and short course explaining the benefits of
 nurturing diversity, inclusion and belonging in an organisation.
 
 People want to feel like they belong to a community, that they have
@@ -56,13 +56,13 @@ creating belonging moments and share your story with your team
 
 * Mini lunches
 
-* Be as aproachable as possible (formal title can be a barrier)
+* Be as approachable as possible (formal title can be a barrier)
 
 * Poll new hires
 
 * Poll those who said no to us
 
-# Intergrate DIBs into the employee life cycle
+# Integrate DIBs into the employee life cycle
 
 * DIBs should be in the DNA of everything that we do, not an initiative
 

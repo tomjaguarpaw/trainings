@@ -14,7 +14,7 @@ Four competency areas
 * Self-awareness
 * Building relationships
 * Business acumen
-* Organizational Strategy
+* Organisational Strategy
 
 ### Safe awareness
 
@@ -24,7 +24,7 @@ Knowing
 * Your weaknesses
 * How others perceive you
 
-### Building relationsships
+### Building relationships
 
 * How well do you read others/the situation?
 * How quickly do you build rapport?
@@ -34,10 +34,10 @@ Knowing
 
 * Technical skills
 
-### Organizational stretagy
+### Organisational strategy
 
-* Guiding your organization to the next level of development
-    * Analyzing the industry
+* Guiding your organisation to the next level of development
+    * Analysing the industry
     * Strategic direction
     * Innovating change
 
@@ -76,31 +76,31 @@ others.
         readiness.
 
     b.  Manager.  Develop staff.  Navigate headquarters.  Innovate
-        improvements.  Maximize talent of team.  Think strategically about
-        contribution to organization's goals.
+        improvements.  Maximise talent of team.  Think strategically about
+        contribution to organisation's goals.
 
 3. Leader of leaders.  Refine communication skills up and down the
-   organization.  Develop business acumen.  Develop organizational strategy.
+   organisation.  Develop business acumen.  Develop organisational strategy.
    Develop new opportunities.
 
-4. Leader of function/division.  Maximize the contributions of all groups
+4. Leader of function/division.  Maximise the contributions of all groups
    within the function.  Strategize the development of the function for the
-   future of the whole organization.
+   future of the whole organisation.
 
-5. Leader of organization.  Set the vision and strategy.  Ensure future
+5. Leader of organisation.  Set the vision and strategy.  Ensure future
    success.
 
-What skills do you need to maximize your potential?  What skills do you need
+What skills do you need to maximise your potential?  What skills do you need
 to develop for the next level?
 
 ## Changing scope and stakes
 
-As you mave up the organization your scope changes.  Share your view with
-those below you in the organization.
+As you move up the organisation your scope changes.  Share your view with
+those below you in the organisation.
 
 Higher levels of leadership demand more vision and strategy.
 
-## Organizational dynamics
+## Organisational dynamics
 
 1. Inception
 2. Launching
@@ -109,7 +109,7 @@ Higher levels of leadership demand more vision and strategy.
 5. Peak performance
 6. Termination or rejuvenation
 
-## Mapping leadership compenencies
+## Mapping leadership competencies
 
 * Integrity is your most precious asset
 
@@ -121,7 +121,7 @@ Higher levels of leadership demand more vision and strategy.
 
 * Business acumen
 
-* Organization strategy
+* Organisation strategy
 
 ## Leading with vision and values
 
@@ -134,7 +134,7 @@ Higher levels of leadership demand more vision and strategy.
 
 1. Know what triggers a strong physical or emotional reaction from you
 
-2. Have 1-2 actions you can take (breathing, journalling, talking,
+2. Have 1-2 actions you can take (breathing, journaling, talking,
    exercising)
 
 ## Motivating and engaging others
@@ -150,7 +150,7 @@ Autonomy, developing mastery, contributing to a meaningful purpose.
 Causes of disengagement
 
 * Feeling invisible
-* Efforts not recognized
+* Efforts not recognised
 * Work seems irrelevant
 * Job or workplace is not as expect
 * Job does not fit talents or interests
@@ -211,7 +211,7 @@ designing and implementing change.
 
 3. Tend to the power of habit.  Shift old behaviours.
 
-## Developing policital acumen
+## Developing policial acumen
 
 Different kinds of power
 
@@ -229,7 +229,7 @@ Different kinds of power
 
 ## Scanning your environment and industry
 
-1. Review your organizations publicity materials
+1. Review your organisations publicity materials
 2. Review internal communication
 3. Listen for comments about pressures, challenges and opportunities
 4. Engage in discussions about current and future developments
@@ -244,7 +244,7 @@ Have a mentor
 
 ## Creating a culture of trust and integrity
 
-## Practicing sustainability
+## Practising sustainability
 
 Keep yourself in good shape so you can meet challenges over the long haul. 
 Keep yourself physically and emotionally strong.
@@ -265,8 +265,8 @@ Resilience is
 by
 
 1. Taking care of yourself
-2. Spending time wiht a supporting social network
+2. Spending time with a supporting social network
 3. Expressing feelings
-4. Practicing gratitude daily
+4. Practising gratitude daily
 5. Keeping your sense of humour
 
